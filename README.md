@@ -5,3 +5,9 @@ Repositório criado na aula de PI.
 
 - Pão;
 - Macarrão;
+- Molho de tomate;
+- Carne moída;
+- Sorvete;
+- Pizza;
+- Coca-cola;
+- Tomate;
